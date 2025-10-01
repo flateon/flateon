@@ -4,7 +4,7 @@ Hi, I'm Chenhui Zhu, a Computer Science graduate student at Nanjing University, 
 
 ## 🔬 Research Projects
 
-[MotionRAG](https://github.com/MCG-NJU/MotionRAG) - Motion Retrieval-Augmented Image-to-Video Generation [[NeurIPS 2025]](https://neurips.cc/virtual/2025/poster/115107) 
+[MotionRAG](https://github.com/MCG-NJU/MotionRAG) - Motion Retrieval-Augmented Image-to-Video Generation [[NeurIPS 2025]](https://arxiv.org/abs/2509.26391) 
 
 [KS-Gen](https://github.com/MCG-NJU/KS-Gen) - Learning Human Skill Generators at Key-Step Levels  [[arXiv: 2502.08234]](https://arxiv.org/abs/2502.08234)
 
